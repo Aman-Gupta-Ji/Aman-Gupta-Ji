@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! My name is Aman Gupta and I am currently an intern at Teradata. I consider myself a knight in the realm of Leetcode, with a strong passion for computer programming, data structures and algorithms, and software development. I am excited to be a part of the Teradata team and contribute to the company's success. In my free time, you can find me honing my skills on Leetcode and staying up to date with the latest developments in the tech industry. Thank you for visiting my profile and feel free to connect with me.
 
 <!--
 **Aman-Gupta-Ji/Aman-Gupta-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
